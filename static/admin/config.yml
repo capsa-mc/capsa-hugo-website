@@ -1,0 +1,70 @@
+backend:
+  name: git-gateway
+  branch: main
+
+site_url: https://capsa-hugo-website.netlify.app
+display_url: https://capsa-hugo-website.netlify.app
+logo_url: https://capsa-hugo-website.netlify.app/icons/icon-512x512.png
+publish_mode: editorial_workflow
+media_folder: static/img
+public_folder: /img
+
+collections:
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "content/_index.md"
+        label: "Home Page"
+        name: "home"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Subtitle, name: subtitle, widget: string}
+          - {label: Heading, name: heading, widget: string}
+          - {label: Description, name: description, widget: text}
+          - {label: "Heading 1", name: heading1, widget: string}
+          - {label: "Description 1", name: description1, widget: text}
+          - {label: Offerings, name: offerings, widget: object, fields: [{label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
+      - file: "content/about/_index.md"
+        label: "About Page"
+        name: "about"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "content/contact/_index.md"
+        label: "Contact Page"
+        name: "contact"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Subtitle, name: subtitle, widget: string}
+          - {label: "Adult Volunteers", name: adult, widget: string}
+          - {label: "Student Coordinators", name: coordinator, widget: string}
+          - {label: "Adult Info", name: adultinfo, widget: list}
+          - {label: "Coordinator Info", name: coordinatorinfo, widget: list}
+      - file: "content/resource/_index.md"
+        label: "Resources Page"
+        name: "resource"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "content/calendar/_index.md"
+        label: "Calendar Page"
+        name: "calendar"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "content/tutoring/_index.md"
+        label: "Tutoring Page"
+        name: "tutoring"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+  - name: "blog"
+    label: "News"
+    folder: "content/blog"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Cover Image", name: "cover", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}

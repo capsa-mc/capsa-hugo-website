@@ -1,0 +1,104 @@
+{{ define "main" }}
+<div>
+  <section class="hero has-background is-bold is-medium">
+    <img class="hero-background" src="/img/tutoringheader.jpg" />
+    <div class="hero-body">
+      <div class="container">
+        <div class="columns">
+          <div class="column is-10 is-offset-1">
+            <div class="section">
+              <h1 class="title is-1 has-text-primary">
+                {{ .Title }}
+              </h1>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  
+  <section class="section section--gradient">
+    <div class="container">
+      <div class="section">
+        <div class="columns">
+          <div class="column is-10 is-offset-1">
+            <div class="content">                  
+              <div class="is-size-5">
+                <div>                  
+                  The CAPSA provides quality and personalized one-on-one tutoring service to K-12 students 
+                  during the MCPS academic school year. Offered in person, these tutoring sessions are held 
+                  once per week and cover various subject areas to address the educational and personal needs 
+                  of the students. Our tutors and program leaders are trained student volunteers who are eager 
+                  to help other students and give back to the community.
+                </div>
+                <ul>
+                  <li><span class="has-text-weight-bold">Tutoring session location:</span> In person at the Robert Frost Middle School (9201 Scott Dr, Rockville, MD 20850)</li>
+                  <li><span class="has-text-weight-bold">Tutoring session dates/times:</span> 10 AM to 12 PM on Saturdays (<a href="/calendar">see calendar here </a>)</li>
+                  <li><span class="has-text-weight-bold">Tutoring session cost:</span> All tutoring sessions are free of charge. Yet each tutee is asked to contribute a $40 administrative fee to help cover CAPSA's operational expenses. The fee will be collected at the first tutoring session.</li>
+                </ul>
+                <div>Interested in becoming a tutee or tutor? Click on the button below to fill out the application form!</div>
+              </div>
+              <div class="mt-6 container is-fluid">
+                <a class="mr-5 button is-info has-text-weight-bold is-size-4" href="https://airtable.com/appjs8eDm1b73hksn/shrXmnF2FL8wd8FZj">Become a Tutee</a>
+                <a class="button is-info has-text-weight-bold is-size-4" href="https://airtable.com/appjs8eDm1b73hksn/shrhvE18ZZZuEh60o">Become a Tutor</a>
+              </div>
+            </div>
+            
+            <!-- Tutoring sections -->
+            <div class="content">      
+              <div>
+                <div>
+                  <h2 class="has-text-centered has-text-weight-semibold is-size-3 mt-6">
+                    Our Tutees
+                  </h2>
+                  <p class="has-text-weight-semibold is-size-5 mt-5">Our tutees enjoy these exclusive benefits:</p>
+                  <ul class="is-size-5">
+                    <li>Receive one-on-one tutoring from trained student volunteer tutors.</li>
+                    <li>Enhance proficiency in a range of subject areas such as math, English, science, and more.</li>
+                    <li>Tailor your own learning – you decide on the subject area for each tutoring session.</li>
+                    <li>Develop effective learning habits by regularly attending tutoring sessions.</li>            
+                    <li>Enhance social skills by participating in special social events organized by the CAPSA.</li>
+                    <li>Be part of a supportive community comprised of dedicated tutees, student tutors, and student leaders.</li>
+                  </ul>
+                </div>
+              </div>
+              <div>
+                <div class="mt-6">
+                  <h2 class="has-text-centered has-text-weight-semibold is-size-3 mt-6">
+                   Our Tutors
+                  </h2>
+                  <p class="has-text-weight-semibold is-size-5 mt-5">All our tutors are eager volunteers. As a tutor, you will:</p>
+                  <ul class="is-size-5">
+                    <li>Receive SSL hours for volunteering your time to tutor the students in need. The CAPSA is certified by MCPS to offer SSL hours.</li>
+                    <li>Exclusive opportunity to receive training by MCPS teaching faculty members on how to become an effective tutor.</li>
+                    <li>Enhance your organizational skills and leadership skills.</li>
+                    <li>Opportunity to participate in special social events organized by the CAPSA.</li>
+                    <li>Be part of a supportive community comprised of dedicated tutees, student tutors, and student leaders.</li>
+                    <li>Give back to the community and make a difference in other students' lives. </li>
+                  </ul>
+                </div>
+              </div>
+              <div>
+                <div class="mt-6">
+                  <h2 class="has-text-centered has-text-weight-semibold is-size-3 mt-6">
+                    Our Coordinators
+                  </h2>
+                  <p class="has-text-weight-semibold is-size-5 mt-5">Tutors who demonstrate enthusiasm, leadership, and reliability can become coordinators for their tutoring group. </p>
+                  <ul class="is-size-5">
+                    <li>Only a tutor with at least 1 year service experience in CAPSA can apply.</li>
+                    <li>Coordinators work with tutors and tutees to manage their tutoring group.</li>
+                    <li>It's a great opportunity to practice and exercise leadership.</li>
+                    <li>Coordinators who excel in their position can become lead coordinators!</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            
+            {{ .Content }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+{{ end }}

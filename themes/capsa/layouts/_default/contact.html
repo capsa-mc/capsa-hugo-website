@@ -1,0 +1,67 @@
+{{ define "main" }}
+<div>
+  <section class="hero has-background is-medium">
+    <img class="hero-background" src="/img/contactusheader.jpg" />
+    <div class="hero-body">
+      <div class="container">
+        <div class="columns">
+          <div class="column is-10 is-offset-1">
+            <div class="section">
+              <h1 class="title is-1 has-text-primary">
+                {{ .Title }}
+              </h1>
+              <h2 class="subtitle">
+                {{ .Params.subtitle }}
+              </h2>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  
+  <section class="section">
+    <div class="tile columns is-centered">
+      <div class="tile is-vertical is-5.8 m-6">
+        <div class="notification is-primary">
+          <p class="title">{{ .Params.adult }}</p>
+        </div>
+        <p class="box mt-0 has-text-left">
+          <ul>
+            {{ range .Params.adultinfo }}
+            <li>{{ . }}</li>
+            {{ end }}
+          </ul>
+        </p>
+      </div>
+      
+      <div class="tile is-vertical is-5.8 m-6">
+        <article class="tile is-child notification is-primary">
+          <p class="title">{{ .Params.coordinator }}</p>
+        </article>
+        <p class="box mt-0 has-text-left">
+          <ul>
+            {{ range .Params.coordinatorinfo }}
+            <li>{{ . }}</li>
+            {{ end }}
+          </ul>
+        </p>
+      </div>
+      
+      <div class="tile is-vertical is-5.8 m-6">
+        <article class="tile is-child notification is-primary">
+          <p class="title">Mail Address and Phone</p>
+        </article>
+        <p class="box mt-0 has-text-left">
+          <ul>
+            <li>CAPSA-MC</li>
+            <li>12774 Wisteria Drive, #115</li>
+            <li>Germantown, MD 20875</li>
+            <li>Phone: (301)686-4237</li>
+          </ul>
+        </p>
+      </div>
+    </div>
+  </section>
+</div>
+{{ end }}

@@ -1,0 +1,12 @@
+<div class="columns is-multiline">
+  {{ range $index, $item := .blurbs }}
+  <div class="column is-6" style="border-radius: 5px;">
+    <section class="section">
+      <p class="has-text-centered">
+        <img src="{{ $item.image }}" alt="gatsby-business-starter-{{ $index }}">
+      </p>
+      <p>{{ $item.text }}</p>
+    </section>
+  </div>
+  {{ end }}
+</div>

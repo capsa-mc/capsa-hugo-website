@@ -1,0 +1,41 @@
+{{ define "main" }}
+<section class="hero has-background is-medium">
+  <img class="hero-background" src="/img/newsheader.jpg" />
+  <div class="hero-body">
+    <div class="container">
+      <div class="columns">
+        <div class="column is-10 is-offset-1">
+          <div class="section">
+            <h1 class="title is-1 has-text-link ">
+              CAPSA News
+            </h1>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="section">
+  <div class="container">
+    {{ range .Pages }}
+    <div class="content" style="border: 1px solid #eaecee; padding: 2em 4em;">
+      <p>
+        <a class="has-text-primary" href="{{ .RelPermalink }}">
+          {{ .Title }}
+        </a>
+        <span> &bull; </span>
+        <small>{{ .Date.Format "January 2, 2006" }}</small>
+      </p>
+      <p>
+        {{ .Summary }}
+        <br />
+        <br />
+        <a class="button is-small" href="{{ .RelPermalink }}">
+          Keep Reading →
+        </a>
+      </p>
+    </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

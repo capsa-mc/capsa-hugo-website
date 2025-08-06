@@ -1,0 +1,47 @@
+{{ define "main" }}
+<section class="section">
+  <div class="container content">
+    <div class="columns">
+      <div class="column is-10 is-offset-1">
+        <div>
+          <h1 class="title is-size-2 has-text-weight-bold is-bold-light">
+            {{ .Title }}
+          </h1>
+          {{ if .Params.cover }}
+          <img src="{{ .Params.cover }}" alt="{{ .Title }}">
+          {{ end }}
+          <div class="content mt-6">
+            {{ .Content }}
+          </div>
+          <div style="margin-top: 4rem;">
+            <h4>Tags</h4>
+            {{ if .Params.tags }}
+            <ul class="taglist">
+              {{ range .Params.tags }}
+              <li>
+                <a href="/tags/{{ . | urlize }}/">{{ . }}</a>
+              </li>
+              {{ end }}
+            </ul>
+            {{ end }}
+          </div>
+          <hr />
+          
+          <!-- Share section placeholder -->
+          <div style="margin-top: 2rem;">
+            <h4>Share this post</h4>
+            <p>Share on social media</p>
+          </div>
+          <hr />
+          
+          <!-- Comments section placeholder -->
+          <div style="margin-top: 2rem;">
+            <h4>Comments</h4>
+            <p>Comments section would go here</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

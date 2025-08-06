@@ -1,0 +1,53 @@
+{{ define "main" }}
+<div class="hero has-background is-large">
+  <img class="hero-background" src="/img/colored pencils background.jpg" />
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title is-1 is-spaced">
+        {{ .Title }}
+      </h1>
+      <h2 class="subtitle is-4 is-spaced">
+        {{ .Params.subtitle }}
+      </h2>         
+    </div>
+  </div>
+</div>
+
+<section class="section section--gradient">
+  <div class="container">
+    <div class="section">
+      <div class="columns">
+        <div class="column is-10 is-offset-1">
+          <div class="content">
+            {{ if .Params.heading1 }}
+            <div class="message is-info">
+              <h3 class="has-text-weight-semibold is-size-3 columns is-centered message-header has-text-white has-text-centered">{{ .Params.heading1 }}</h3>
+              {{ if .Params.description1 }}
+              <div class="box mt-4 is-size-5 has-text-left">
+                {{ .Params.description1 | markdownify }}
+              </div>
+              {{ end }}
+            </div>
+            {{ end }}
+            
+            {{ if .Params.heading }}
+            <div class="message is-info">
+              <h3 class="has-text-weight-semibold is-size-3 columns is-centered message-header has-text-white has-text-centered">
+                {{ .Params.heading }}
+              </h3>
+              {{ if .Params.description }}
+              <p class="columns is-centered box mt-4 is-size-5 has-text-centered">{{ .Params.description }}</p>
+              {{ end }}
+            </div>
+            {{ end }}
+            
+            {{ if .Params.offerings }}
+            {{ partial "offerings.html" .Params.offerings }}
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

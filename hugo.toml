@@ -1,0 +1,52 @@
+baseURL = 'https://capsa-hugo-website.netlify.app'
+languageCode = 'en-us'
+title = 'CAPSA-MC'
+theme = 'capsa'
+
+[params]
+  description = 'CAPSA-MC Website'
+  author = 'CAPSA-MC'
+  copyright = 'Copyright © CAPSA-MC 2021. All Rights Reserved.'
+  themeColor = '#f7e9e6'
+  backgroundColor = '#ffffff'
+
+[menu]
+  [[menu.main]]
+    name = 'About Us'
+    url = '/about/'
+    weight = 10
+
+  [[menu.main]]
+    name = 'Tutoring'
+    url = '/tutoring/'
+    weight = 20
+
+  [[menu.main]]
+    name = 'Calendar'
+    url = '/calendar/'
+    weight = 30
+
+  [[menu.main]]
+    name = 'Resources'
+    url = '/resource/'
+    weight = 40
+
+  [[menu.main]]
+    name = 'News'
+    url = '/blog/'
+    weight = 50
+
+  [[menu.main]]
+    name = 'Contact Us'
+    url = '/contact/'
+    weight = 60
+
+  [[menu.main]]
+    name = 'Legacy Website'
+    url = 'https://www1.capsa-mc.org'
+    weight = 70
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
