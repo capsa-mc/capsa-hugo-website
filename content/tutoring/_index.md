@@ -41,6 +41,6 @@ The CAPSA provides quality and personalized one-on-one tutoring service to K-12 
 
 **Tutoring session dates/times:** 10 AM to 12 PM on Saturdays (see calendar here )
 
-**Tutoring session cost:** All tutoring sessions are free of charge. Yet each tutee is asked to contribute a $40 administrative fee to help cover CAPSA's operational expenses. The fee will be collected at the first tutoring session.
+**Tutoring session cost:** All tutoring sessions are free of charge. However, each tutee is asked to contribute a $100 fee, and each tutor and coordinator a $50 fee, to help cover CAPSA’s operational expenses such as snacks, facility rentals, and related costs. The fee will be collected at the first tutoring session. Please note that all of our staff are volunteers and do not receive any compensation from this program. Your contribution is solely to support CAPSA in continuing to provide valuable services to our community.
 
 Interested in becoming a tutee or tutor? Click on the button below to fill out the application form!
