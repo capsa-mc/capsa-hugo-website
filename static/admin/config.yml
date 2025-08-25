@@ -57,6 +57,12 @@ collections:
         name: "tutoring"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Description", name: "description", widget: "text"}
+          - {label: "Location", name: "location", widget: "string"}
+          - {label: "Schedule", name: "schedule", widget: "string"}
+          - {label: "Calendar Link", name: "calendar_link", widget: "string"}
+          - {label: "Cost Information", name: "cost_info", widget: "text"}
+          - {label: "Call to Action", name: "call_to_action", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Tutee Button Text", name: "tutee_button_text", widget: "string"}
           - {label: "Tutee Button URL", name: "tutee_button_url", widget: "string"}
