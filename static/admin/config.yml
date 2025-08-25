@@ -58,6 +58,31 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Tutee Button Text", name: "tutee_button_text", widget: "string"}
+          - {label: "Tutee Button URL", name: "tutee_button_url", widget: "string"}
+          - {label: "Tutor Button Text", name: "tutor_button_text", widget: "string"}
+          - {label: "Tutor Button URL", name: "tutor_button_url", widget: "string"}
+          - label: "Tutees Section"
+            name: "tutees"
+            widget: "object"
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Description", name: "description", widget: "text"}
+              - {label: "Benefits", name: "benefits", widget: "list", field: {label: "Benefit", name: "benefit", widget: "text"}}
+          - label: "Tutors Section"
+            name: "tutors"
+            widget: "object"
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Description", name: "description", widget: "text"}
+              - {label: "Benefits", name: "benefits", widget: "list", field: {label: "Benefit", name: "benefit", widget: "text"}}
+          - label: "Coordinators Section"
+            name: "coordinators"
+            widget: "object"
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Description", name: "description", widget: "text"}
+              - {label: "Requirements", name: "requirements", widget: "list", field: {label: "Requirement", name: "requirement", widget: "text"}}
   - name: "blog"
     label: "News"
     folder: "content/blog"

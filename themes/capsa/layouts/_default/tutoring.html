@@ -39,59 +39,60 @@
                 <div>Interested in becoming a tutee or tutor? Click on the button below to fill out the application form!</div>
               </div>
               <div class="mt-6 container is-fluid">
-                <a class="mr-5 button is-info has-text-weight-bold is-size-4" href="https://airtable.com/appjs8eDm1b73hksn/shrXmnF2FL8wd8FZj">Become a Tutee</a>
-                <a class="button is-info has-text-weight-bold is-size-4" href="https://airtable.com/appjs8eDm1b73hksn/shrhvE18ZZZuEh60o">Become a Tutor</a>
+                <a class="mr-5 button is-info has-text-weight-bold is-size-4" href="{{ .Params.tutee_button_url }}">{{ .Params.tutee_button_text }}</a>
+                <a class="button is-info has-text-weight-bold is-size-4" href="{{ .Params.tutor_button_url }}">{{ .Params.tutor_button_text }}</a>
               </div>
             </div>
             
             <!-- Tutoring sections -->
             <div class="content">      
+              {{ with .Params.tutees }}
               <div>
                 <div>
                   <h2 class="has-text-centered has-text-weight-semibold is-size-3 mt-6">
-                    Our Tutees
+                    {{ .title }}
                   </h2>
-                  <p class="has-text-weight-semibold is-size-5 mt-5">Our tutees enjoy these exclusive benefits:</p>
+                  <p class="has-text-weight-semibold is-size-5 mt-5">{{ .description }}</p>
                   <ul class="is-size-5">
-                    <li>Receive one-on-one tutoring from trained student volunteer tutors.</li>
-                    <li>Enhance proficiency in a range of subject areas such as math, English, science, and more.</li>
-                    <li>Tailor your own learning – you decide on the subject area for each tutoring session.</li>
-                    <li>Develop effective learning habits by regularly attending tutoring sessions.</li>            
-                    <li>Enhance social skills by participating in special social events organized by the CAPSA.</li>
-                    <li>Be part of a supportive community comprised of dedicated tutees, student tutors, and student leaders.</li>
+                    {{ range .benefits }}
+                    <li>{{ . }}</li>
+                    {{ end }}
                   </ul>
                 </div>
               </div>
+              {{ end }}
+              
+              {{ with .Params.tutors }}
               <div>
                 <div class="mt-6">
                   <h2 class="has-text-centered has-text-weight-semibold is-size-3 mt-6">
-                   Our Tutors
+                   {{ .title }}
                   </h2>
-                  <p class="has-text-weight-semibold is-size-5 mt-5">All our tutors are eager volunteers. As a tutor, you will:</p>
+                  <p class="has-text-weight-semibold is-size-5 mt-5">{{ .description }}</p>
                   <ul class="is-size-5">
-                    <li>Receive SSL hours for volunteering your time to tutor the students in need. The CAPSA is certified by MCPS to offer SSL hours.</li>
-                    <li>Exclusive opportunity to receive training by MCPS teaching faculty members on how to become an effective tutor.</li>
-                    <li>Enhance your organizational skills and leadership skills.</li>
-                    <li>Opportunity to participate in special social events organized by the CAPSA.</li>
-                    <li>Be part of a supportive community comprised of dedicated tutees, student tutors, and student leaders.</li>
-                    <li>Give back to the community and make a difference in other students' lives. </li>
+                    {{ range .benefits }}
+                    <li>{{ . }}</li>
+                    {{ end }}
                   </ul>
                 </div>
               </div>
+              {{ end }}
+              
+              {{ with .Params.coordinators }}
               <div>
                 <div class="mt-6">
                   <h2 class="has-text-centered has-text-weight-semibold is-size-3 mt-6">
-                    Our Coordinators
+                    {{ .title }}
                   </h2>
-                  <p class="has-text-weight-semibold is-size-5 mt-5">Tutors who demonstrate enthusiasm, leadership, and reliability can become coordinators for their tutoring group. </p>
+                  <p class="has-text-weight-semibold is-size-5 mt-5">{{ .description }}</p>
                   <ul class="is-size-5">
-                    <li>Only a tutor with at least 1 year service experience in CAPSA can apply.</li>
-                    <li>Coordinators work with tutors and tutees to manage their tutoring group.</li>
-                    <li>It's a great opportunity to practice and exercise leadership.</li>
-                    <li>Coordinators who excel in their position can become lead coordinators!</li>
+                    {{ range .requirements }}
+                    <li>{{ . }}</li>
+                    {{ end }}
                   </ul>
                 </div>
               </div>
+              {{ end }}
             </div>
             
             {{ .Content }}
