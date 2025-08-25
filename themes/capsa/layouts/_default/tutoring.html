@@ -25,18 +25,14 @@
             <div class="content">                  
               <div class="is-size-5">
                 <div>                  
-                  The CAPSA provides quality and personalized one-on-one tutoring service to K-12 students 
-                  during the MCPS academic school year. Offered in person, these tutoring sessions are held 
-                  once per week and cover various subject areas to address the educational and personal needs 
-                  of the students. Our tutors and program leaders are trained student volunteers who are eager 
-                  to help other students and give back to the community.
+                  {{ .Params.description }}
                 </div>
                 <ul>
-                  <li><span class="has-text-weight-bold">Tutoring session location:</span> In person at the Robert Frost Middle School (9201 Scott Dr, Rockville, MD 20850)</li>
-                  <li><span class="has-text-weight-bold">Tutoring session dates/times:</span> 10 AM to 12 PM on Saturdays (<a href="/calendar">see calendar here </a>)</li>
-                  <li><span class="has-text-weight-bold">Tutoring session cost:</span> All tutoring sessions are free of charge. Yet each tutee is asked to contribute a $40 administrative fee to help cover CAPSA's operational expenses. The fee will be collected at the first tutoring session.</li>
+                  <li><span class="has-text-weight-bold">Tutoring session location:</span> {{ .Params.location }}</li>
+                  <li><span class="has-text-weight-bold">Tutoring session dates/times:</span> {{ .Params.schedule }} (<a href="{{ .Params.calendar_link }}">see calendar here </a>)</li>
+                  <li><span class="has-text-weight-bold">Tutoring session cost:</span> {{ .Params.cost_info }}</li>
                 </ul>
-                <div>Interested in becoming a tutee or tutor? Click on the button below to fill out the application form!</div>
+                <div>{{ .Params.call_to_action }}</div>
               </div>
               <div class="mt-6 container is-fluid">
                 <a class="mr-5 button is-info has-text-weight-bold is-size-4" href="{{ .Params.tutee_button_url }}">{{ .Params.tutee_button_text }}</a>
@@ -94,8 +90,6 @@
               </div>
               {{ end }}
             </div>
-            
-            {{ .Content }}
           </div>
         </div>
       </div>

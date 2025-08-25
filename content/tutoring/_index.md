@@ -1,5 +1,11 @@
 ---
 title: CAPSA Tutoring Program
+description: "The CAPSA provides quality and personalized one-on-one tutoring service to K-12 students during the MCPS academic school year. Offered in person, these tutoring sessions are held once per week and cover various subject areas to address the educational and personal needs of the students. Our tutors and program leaders are trained student volunteers who are eager to help other students and give back to the community."
+location: "In person at the Robert Frost Middle School (9201 Scott Dr, Rockville, MD 20850)"
+schedule: "10 AM to 12 PM on Saturdays"
+calendar_link: "/calendar"
+cost_info: "All tutoring sessions are free of charge. However, each tutee is asked to contribute a $100 fee, and each tutor and coordinator a $50 fee, to help cover CAPSA's operational expenses such as snacks, facility rentals, and related costs. The fee will be collected at the first tutoring session. Please note that all of our staff are volunteers and do not receive any compensation from this program. Your contribution is solely to support CAPSA in continuing to provide valuable services to our community."
+call_to_action: "Interested in becoming a tutee or tutor? Click on the button below to fill out the application form!"
 tutees:
   title: Our Tutees
   description: "Our tutees enjoy these exclusive benefits:"
@@ -42,12 +48,3 @@ tutors:
       tutors, and student leaders.
     - Give back to the community and make a difference in other students' lives.
 ---
-The CAPSA provides quality and personalized one-on-one tutoring service to K-12 students during the MCPS academic school year. Offered in person, these tutoring sessions are held once per week and cover various subject areas to address the educational and personal needs of the students. Our tutors and program leaders are trained student volunteers who are eager to help other students and give back to the community.
-
-**Tutoring session location:** In person at the Robert Frost Middle School (9201 Scott Dr, Rockville, MD 20850)
-
-**Tutoring session dates/times:** 10 AM to 12 PM on Saturdays (see calendar here )
-
-**Tutoring session cost:** All tutoring sessions are free of charge. However, each tutee is asked to contribute a $100 fee, and each tutor and coordinator a $50 fee, to help cover CAPSA's operational expenses such as snacks, facility rentals, and related costs. The fee will be collected at the first tutoring session. Please note that all of our staff are volunteers and do **not** receive any compensation from this program. Your contribution is solely to support CAPSA in continuing to provide valuable services to our community.
-
-Interested in becoming a tutee or tutor? Click on the button below to fill out the application form!
