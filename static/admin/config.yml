@@ -57,6 +57,7 @@ collections:
         name: "tutoring"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
   - name: "blog"
     label: "News"
     folder: "content/blog"
