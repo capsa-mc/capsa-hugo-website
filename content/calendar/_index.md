@@ -6,7 +6,7 @@ layout: calendar
 
 | Dates    | Description                             | Notes |
 | -------- | --------------------------------------- | ----- |
-| 9/13/24  | Tutor Training Session                  |       |
+| 9/13/25  | Tutor Training Session                  |       |
 | 9/20/25  | Regular tutoring session                |       |
 | 9/27/25  | Regular tutoring session                |       |
 | 10/4/25  | Regular tutoring session                |       |
