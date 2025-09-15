@@ -1,6 +1,6 @@
 ---
 title: CAPSA Tutoring Program
-description: The CAPSA provides quality and personalized one-on-one tutoring
+description: The CAPSA provides quality and personalized one-to-one tutoring
   services to K-12 students during the MCPS academic school year. Offered in
   person, these tutoring sessions are held once per week and cover various
   subject areas to address the educational and personal needs of the students.
