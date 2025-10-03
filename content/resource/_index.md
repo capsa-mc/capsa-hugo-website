@@ -10,7 +10,7 @@ layout: resource
 
 #### Daily Forms
 
-* <a href="https://forms.gle/T2kZ8PeExjJHGvy57" target="_blank">Absence Form</a>
+* <a href="https://forms.gle/gjQgRg5hcMMyB6JTA" target="_blank">Absence Form</a>
 * <a href="https://forms.gle/BXTxgKpGxmAskHG19" target="_blank">Tutor Record Session Form</a>
 * <a href="https://forms.gle/6VQ7yb3aVxqbQSQcA" target="blank">Admin Associate Attendance Form</a>
 
