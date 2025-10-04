@@ -11,8 +11,8 @@ layout: calendar
 | 9/27/25  | Regular tutoring session                |       |
 | 10/4/25  | Regular tutoring session                |       |
 | 10/11/25 | Regular tutoring session                |       |
-| 10/18/25 | No class - classroom not available      |       |
-| 10/25/25 | Regular tutoring session                |       |
+| 10/18/25 | Regular tutoring session                |       |
+| 10/25/25 | No class - classroom unavailable        |       |
 | 11/1/25  | Regular tutoring session                |       |
 | 11/8/25  | Regular tutoring session                |       |
 | 11/15/25 | Regular tutoring session                |       |
