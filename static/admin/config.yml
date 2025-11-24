@@ -40,6 +40,17 @@ collections:
           - {label: "Student Coordinators", name: coordinator, widget: string}
           - {label: "Adult Info", name: adultinfo, widget: list}
           - {label: "Coordinator Info", name: coordinatorinfo, widget: list}
+          - label: "Mail Section"
+            name: "mail_section"
+            widget: "object"
+            fields:
+              - {label: "Title", name: "title", widget: "string", required: false}
+              - {label: "Organization", name: "organization", widget: "string", required: false}
+              - label: "Address Lines"
+                name: "address_lines"
+                widget: "list"
+                field: {label: "Line", name: "line", widget: "string"}
+              - {label: "Phone", name: "phone", widget: "string", required: false}
       - file: "content/resource/_index.md"
         label: "Resources Page"
         name: "resource"

@@ -50,14 +50,25 @@
       
       <div class="tile is-vertical is-5.8 m-6">
         <article class="tile is-child notification is-primary">
-          <p class="title">Mail Address and Phone</p>
+          {{ $mailTitle := "Mail Address and Phone" }}
+          {{ $organization := "CAPSA-MC" }}
+          {{ $addressLines := slice "12774 Wisteria Drive, #115" "Germantown, MD 20875" }}
+          {{ $phone := "(301)686-4237" }}
+          {{ with .Params.mail_section }}
+            {{ with .title }}{{ $mailTitle = . }}{{ end }}
+            {{ with .organization }}{{ $organization = . }}{{ end }}
+            {{ with .address_lines }}{{ $addressLines = . }}{{ end }}
+            {{ with .phone }}{{ $phone = . }}{{ end }}
+          {{ end }}
+          <p class="title">{{ $mailTitle }}</p>
         </article>
         <p class="box mt-0 has-text-left">
           <ul>
-            <li>CAPSA-MC</li>
-            <li>12774 Wisteria Drive, #115</li>
-            <li>Germantown, MD 20875</li>
-            <li>Phone: (301)686-4237</li>
+            {{ if $organization }}<li>{{ $organization }}</li>{{ end }}
+            {{ range $addressLines }}
+            <li>{{ . }}</li>
+            {{ end }}
+            {{ if $phone }}<li>Phone: {{ $phone }}</li>{{ end }}
           </ul>
         </p>
       </div>
