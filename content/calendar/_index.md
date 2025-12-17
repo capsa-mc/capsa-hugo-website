@@ -22,7 +22,7 @@ layout: calendar
 | 12/13/25 | End of semester celebration             |       |
 | 12/20/25 | No class - Christmas                    |       |
 | 12/27/25 | No class - New Year                     |       |
-| 1/3/26   | Regular tutoring session                |       |
+| 1/3/26   | No class-Winter break                   |       |
 | 1/10/26  | Regular tutoring session                |       |
 | 1/17/26  | Regular tutoring session                |       |
 | 1/24/26  | Regular tutoring session                |       |
