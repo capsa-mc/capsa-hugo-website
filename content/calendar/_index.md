@@ -40,5 +40,5 @@ layout: calendar
 | 4/18/26  | Regular tutoring session                |       |
 | 4/25/26  | Regular tutoring session                |       |
 | 5/2/26   | Regular tutoring session                |       |
-| 5/9/26   | Regular tutoring session                |       |
-| 5/16/26  | Annual Award Ceremony (In-person Event) |       |
+| 5/9/26   | Annual Award Ceremony (In-person Event) |       |
+|          |                                         |       |
