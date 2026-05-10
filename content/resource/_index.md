@@ -18,8 +18,8 @@ layout: resource
 
 #### CAPSA Tutoring Program Documents
 
-* <a href="https://airtable.com/appjs8eDm1b73hksn/shrhvE18ZZZuEh60o" target="_blank">Tutor Registration Form</a>
-* <a href="https://airtable.com/appjs8eDm1b73hksn/shrXmnF2FL8wd8FZj" target="_blank">Tutee Registration Form</a>
+* <a href="https://forms.gle/uTMSW4CNH8kcdSGT8" target="_blank">Tutor Registration Form</a>
+* <a href="https://forms.gle/By4L8GU9P2DSDcZN9" target="_blank">Tutee Registration Form</a>
 * <a href="https://www1.capsa-mc.org/docs/2019/Disbursement.pdf" target="_blank">Disbursement Form</a>
 * <a href="https://airtable.com/appBpI4Wc5vT3DH5R/shrMeInHQr1AXhYHL" target="_blank">Coordinator Application Form</a>
 
