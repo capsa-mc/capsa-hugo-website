@@ -20,9 +20,9 @@ cost_info: All tutoring sessions are free of charge. However, each tutee is
 call_to_action: Interested in becoming a tutee or tutor? Click on the button
   below to fill out the application form!
 tutee_button_text: Become a Tutee
-tutee_button_url: https://airtable.com/appjs8eDm1b73hksn/shrXmnF2FL8wd8FZj
+tutee_button_url: https://forms.gle/By4L8GU9P2DSDcZN9
 tutor_button_text: Become a Tutor
-tutor_button_url: https://airtable.com/appjs8eDm1b73hksn/shrhvE18ZZZuEh60o
+tutor_button_url: https://forms.gle/uTMSW4CNH8kcdSGT8
 tutees:
   title: Our Tutees
   description: "Our tutees enjoy these exclusive benefits:"
