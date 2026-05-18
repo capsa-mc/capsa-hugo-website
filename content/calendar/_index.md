@@ -2,7 +2,7 @@
 title: Calendar
 layout: calendar
 ---
-1. ## 9/Calendar/
+## Calendar
 
 | Dates     | Description                               | Notes                                    |
 | --------- | ----------------------------------------- | ---------------------------------------- |
