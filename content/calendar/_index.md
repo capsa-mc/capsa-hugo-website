@@ -6,7 +6,7 @@ layout: calendar
 
 | **Dates**    | **Description**                           | **Notes**                                                            |
 | ------------ | ----------------------------------------- | -------------------------------------------------------------------- |
-| 9/12/26      | Tutor Training Session 10 a.m. to 12 p.m. | Only Tutors and Coordinators are required to attend.                 |
+| 9/12/26      | Tutor Training Session 10 a.m. to 12 p.m. |  Only Volunteers are required to attend.                             |
 | 9/19/26      | First Tutoring Session 10 a.m. to 12 p.m. |                                                                      |
 | 9/26/26      | Regular Tutoring Session                  |                                                                      |
 | 10/03/26     | Regular Tutoring Session                  |                                                                      |
