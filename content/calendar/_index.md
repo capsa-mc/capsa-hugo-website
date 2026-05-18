@@ -6,7 +6,7 @@ layout: calendar
 
 | **Dates**    | **Description**                           | **Notes**                                                            |
 | ------------ | ----------------------------------------- | -------------------------------------------------------------------- |
-| 9/12/26      | Tutor Training Session 10 a.m. to 12 p.m. |  Only Volunteers are required to attend.                             |
+| 9/12/26      | Tutor Training Session 10 a.m. to 12 p.m. | Only Volunteers are required to attend.                              |
 | 9/19/26      | First Tutoring Session 10 a.m. to 12 p.m. |                                                                      |
 | 9/26/26      | Regular Tutoring Session                  |                                                                      |
 | 10/03/26     | Regular Tutoring Session                  |                                                                      |
@@ -17,25 +17,25 @@ layout: calendar
 | 11/7/26      | Regular Tutoring Session                  |                                                                      |
 | 11/14/26     | Regular Tutoring Session                  |                                                                      |
 | 11/21/26     | Regular Tutoring Session                  |                                                                      |
-| **11/28/26** | **No class - Thanksgiving**               |                                                                      |
+| **11/28/26** | **No Class - Thanksgiving**               |                                                                      |
 | 12/05/26     | Regular Tutoring Session                  |                                                                      |
 | 12/12/26     | Regular Tutoring Session                  |                                                                      |
 | 12/19/26     | Regular Tutoring Session                  |                                                                      |
-| **12/26/26** | **No class - Christmas**                  |                                                                      |
-| **01/02/27** | **No class - New Year**                   |                                                                      |
+| **12/26/26** | **No Class - Christmas**                  |                                                                      |
+| **01/02/27** | **No Class - New Year**                   |                                                                      |
 | 01/09/27     | Regular Tutoring Session                  |                                                                      |
 | 01/16/27     | Regular Tutoring Session                  |                                                                      |
 | 01/23/27     | Regular Tutoring Session                  |                                                                      |
 | 01/30/27     | Regular Tutoring Session                  |                                                                      |
-| **02/06/27** | **No class - Lunar New Year**             |                                                                      |
+| **02/06/27** | **No Class - Lunar New Year**             |                                                                      |
 | 02/13/27     | Regular Tutoring Session                  |                                                                      |
 | 02/20/27     | Regular Tutoring Session                  |                                                                      |
 | 02/27/27     | Regular Tutoring Session                  |                                                                      |
 | 03/06/27     | Regular Tutoring Session                  |                                                                      |
 | 03/13/27     | Regular Tutoring Session                  |                                                                      |
 | 03/20/27     | Regular Tutoring Session                  |                                                                      |
-| **03/27/27** | **No class - Spring break**               |                                                                      |
-| **04/03/27** | **No class - Spring break**               |                                                                      |
+| **03/27/27** | **No Class - Spring Break**               |                                                                      |
+| **04/03/27** | **No Class - Spring Break**               |                                                                      |
 | 04/10/27     | Regular Tutoring Session                  |                                                                      |
 | 04/17/27     | Regular Tutoring Session                  |                                                                      |
 | 04/24/27     | Regular Tutoring Session                  |                                                                      |
