@@ -2,42 +2,43 @@
 title: Calendar
 layout: calendar
 ---
-## Calendar
+1. ## 9/Calendar/
 
-| Dates    | Description                             | Notes |
-| -------- | --------------------------------------- | ----- |
-| 9/13/25  | Tutor Training Session                  |       |
-| 9/20/25  | Regular tutoring session                |       |
-| 9/27/25  | Regular tutoring session                |       |
-| 10/4/25  | Regular tutoring session                |       |
-| 10/11/25 | Regular tutoring session                |       |
-| 10/18/25 | Regular tutoring session                |       |
-| 10/25/25 | No class - Classroom unavailable        |       |
-| 11/1/25  | Regular tutoring session                |       |
-| 11/8/25  | Regular tutoring session                |       |
-| 11/15/25 | Regular tutoring session                |       |
-| 11/22/25 | Regular tutoring session                |       |
-| 11/29/25 | No class - Thanksgiving                 |       |
-| 12/6/25  | Regular tutoring session                |       |
-| 12/13/25 | End of semester celebration             |       |
-| 12/20/25 | No class - Christmas                    |       |
-| 12/27/25 | No class - New Year                     |       |
-| 1/3/26   | No class-Winter break                   |       |
-| 1/10/26  | Regular tutoring session                |       |
-| 1/17/26  | Regular tutoring session                |       |
-| 1/24/26  | Regular tutoring session                |       |
-| 1/31/26  | Regular tutoring session                |       |
-| 2/7/26   | Regular tutoring session                |       |
-| 2/14/26  | No class - Lunar New Year               |       |
-| 2/21/26  | Regular tutoring session                |       |
-| 2/28/26  | Regular tutoring session                |       |
-| 3/7/26   | Regular tutoring session                |       |
-| 3/14/26  | Regular tutoring session                |       |
-| 3/21/26  | Regular tutoring session                |       |
-| 3/28/26  | No class - Spring break                 |       |
-| 4/4/26   | No class - Spring break                 |       |
-| 4/11/26  | Regular tutoring session                |       |
-| 4/18/26  | Regular tutoring session                |       |
-| 4/25/26  | Regular tutoring session                |       |
-| 5/2/26   | Regular tutoring session                |       |
-| 5/9/26  | Annual Award Ceremony (In-person Event) |       |
+| Dates     | Description                               | Notes                                    |
+| --------- | ----------------------------------------- | ---------------------------------------- |
+| 9/12/26   | Tutor Training Session 10 a.m. to 12 p.m. | Only Tutors and Coordinators attend      |
+| 9/19/26   | First Tutoring session 10 a.m. to 12 p.m. |                                          |
+| 9/26/26   | Regular tutoring session                  |                                          |
+| 10/03/26  | Regular tutoring session                  |                                          |
+| 10/10/26  | Regular tutoring session                  |                                          |
+| 10/17/26  | Regular tutoring session                  |                                          |
+| 10/24/26  | Regular tutoring session                  |                                          |
+| 10/31/26  | Regular tutoring session                  |                                          |
+| 11/7/26   | Regular tutoring session                  |                                          |
+| 11/14/26  | Regular tutoring session                  |                                          |
+| 11/21/26  | Regular tutoring session                  |                                          |
+| 11/28/26  | No class - Thanksgiving                   |                                          |
+| 12/05/26  | Regular tutoring session                  |                                          |
+| 12/12/26  | Regular tutoring session                  |                                          |
+| 12/19/26  | Regular tutoring session                  |                                          |
+| 12/26/26  | No class - Christmas                      |                                          |
+| 01/02/27  | No class - New Year                       |                                          |
+| 01/09/27  | Regular tutoring session                  |                                          |
+| 01/16/27  | Regular tutoring session                  |                                          |
+| 01/23/27  | Regular tutoring session                  |                                          |
+| 01/30/27  | Regular tutoring session                  |                                          |
+| 02/06/27  | No class - Lunar New Year                 |                                          |
+| 02/13/27  | Regular tutoring session                  |                                          |
+| 02/20/27  | Regular tutoring session                  |                                          |
+| 02/27/27  | Regular tutoring session                  |                                          |
+| 03/06/27  | Regular tutoring session                  |                                          |
+| 03/13/27  | Regular tutoring session                  |                                          |
+| 03/20/27  | Regular tutoring session                  |                                          |
+| 03/27/27  | No class - Spring break                   |                                          |
+| 04/03/27  | No class - Spring break                   |                                          |
+| 04/10/27  | Regular tutoring session                  |                                          |
+| 04/17/27  | Regular tutoring session                  |                                          |
+| 04/24/27  | Regular tutoring session                  |                                          |
+| 0﻿5/01/27 | Regular tutoring session                  |                                          |
+| 0﻿5/09/27 | Regular tutoring session                  |                                          |
+| 05/15/27  | Annual Award Ceremony                     | All CAPSA Students and Volunteers attend |
