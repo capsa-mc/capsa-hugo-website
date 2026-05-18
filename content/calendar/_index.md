@@ -1,8 +1,8 @@
 ---
-title: Calendar
+title: 2026 -2027 School Year CAPSA Calendar
 layout: calendar
 ---
-## Calendar
+## 2026 - 2027 Calendar
 
 | Dates     | Description                               | Notes                                    |
 | --------- | ----------------------------------------- | ---------------------------------------- |
