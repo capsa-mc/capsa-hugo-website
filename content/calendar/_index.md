@@ -13,7 +13,7 @@ layout: calendar
 | 10/10/26  | Regular tutoring session                  |                                          |
 | 10/17/26  | Regular tutoring session                  |                                          |
 | 10/24/26  | Regular tutoring session                  |                                          |
-| 10/31/26  | Regular tutoring session                  |                                          |
+| 10/31/26  | Regular tutoring session                  | H﻿alloween Costume Contest               |
 | 11/7/26   | Regular tutoring session                  |                                          |
 | 11/14/26  | Regular tutoring session                  |                                          |
 | 11/21/26  | Regular tutoring session                  |                                          |
