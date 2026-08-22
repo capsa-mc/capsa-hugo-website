@@ -26,7 +26,7 @@ testimonials:
   - author: Author 2 is here
     quote: Here is quote 2
 description1: We are now accepting applications for tutees and tutors for the
-  2025-2026 school year! Interested in becoming a tutor or tutee? Visit our
+  2026-2027 school year! Interested in becoming a tutor or tutee? Visit our
   [Tutoring page](/tutoring) to find out more and submit your application. Only
   limited space is available, so apply now!
 ---
