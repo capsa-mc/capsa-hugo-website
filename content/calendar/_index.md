@@ -40,5 +40,5 @@ layout: calendar
 | 04/17/27     | Regular Tutoring Session                  |                                                                      |
 | 04/24/27     | Regular Tutoring Session                  |                                                                      |
 | 0﻿5/01/27    | Regular Tutoring Session                  |                                                                      |
-| 0﻿5/09/27    | Regular Tutoring Session                  |                                                                      |
+| 0﻿5/08/27    | Regular Tutoring Session                  |                                                                      |
 | *05/15/27*   | *Annual Award Ceremony*                   | Students and Volunteers are required to attend. Parents are welcome! |
