@@ -57,8 +57,6 @@ Through this commitment, students grow by serving others, parents find strength 
 
 **At CAPSA, we don't just help students succeed academically. We nurture future leaders, strengthen families, and build a caring community where everyone has the opportunity to learn, grow, and thrive.**
 
-
-
 CAPSA 不仅仅是一个课外辅导机构，更是一个学生与家长共同成长、彼此成​就的温暖社区。\
 \
 成立于1988年的 CAPSA，是一个由家长志愿者共同创办和运营的非营利性教育互​助组织。一路走来，我们汇聚了十几位热心奉献的志愿者家长，每个​周六的上午，带领60多名来自初高中阶段的学生志愿者，为有学业​辅导需求的学生提供线上和线下课程支持。\
@@ -75,5 +73,7 @@ CAPSA 家长在互助中，学会了理解孩子和自己。 认识孩子们情�
 \
 CAPSA，是学生成长的阶梯，也是家长心灵的港湾。我们相信，真正有意义的教育，不只是帮助孩子取得更好的成绩，更​是让他们学会帮助别人、成为有爱心、有担当的人。我们也相信，一个健康的家庭，需要孩子成长，也需要父母成长；需​要知识的积累，也需要心灵的陪伴。\
 \
-三十多年来，CAPSA坚持以爱心为起点，以教育为纽带，以互助​为力量，让学生在服务中成长，让家长在交流中获得支持，让每一个​家庭在彼此陪伴中变得更加丰盈。\
-CAPSA — Growing Together, Giving Together, Thriving Together!
+三十多年来，CAPSA坚持以爱心为起点，以教育为纽带，以互助​为力量，让学生在服务中成长，让家长在交流中获得支持，让每一个​家庭在彼此陪伴中变得更加丰盈。
+
+\
+**CAPSA — Growing Together, Giving Together, Thriving Together!**
