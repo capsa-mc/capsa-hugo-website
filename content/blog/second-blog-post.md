@@ -7,6 +7,58 @@ tags:
 ---
 <!--StartFragment-->
 
+# CAPSA: A Community Where Students and Parents Grow Together
+
+**CAPSA is more than just a tutoring organization. It is a warm, supportive community where students and parents grow together, empower one another, and help each other succeed.**
+
+Founded in 1989, CAPSA is a nonprofit educational support organization established and operated by dedicated parent volunteers. Over the years, CAPSA has brought together more than a dozen committed parent volunteers who, every Saturday morning, lead over 60 middle and high school student volunteers in providing both in-person and online academic tutoring to students in need8
+
+At CAPSA, we have witnessed generations of students grow, develop, and transform. Many first come to CAPSA as students seeking academic support. After benefiting from the program, they choose to give back by becoming volunteer tutors themselves. As they gain experience, they gradually take on student leadership roles, assuming responsibilities in organization, coordination, and program management.
+
+This journey—from receiving help to helping others, and eventually leading a team—is much more than an educational experience. It is a valuable, hands-on lesson in responsibility, teamwork, communication, community service, and leadership.
+
+For parents, CAPSA is not only a trusted place where their children can receive academic support, but also a welcoming community where they can find understanding, encouragement, emotional support, and a sense of belonging.
+
+## Parent Support Group: Growing Together as Families
+
+To further support families, CAPSA established a **Parent Support Group**, led by professionals specializing in family education and psychological counseling.
+
+Through short presentations, group discussions, real-life case studies, and practical exercises, parents learn how to better understand their children's emotions and behaviors, strengthen parent-child communication, reduce family conflicts, and develop healthier emotional regulation skills. The group also explores ways to nurture positive marital relationships, practice self-care, and build a more supportive and harmonious family environment.
+
+Through mutual support and shared learning, CAPSA parents gain a deeper understanding of both their children and themselves.
+
+They learn to recognize the underlying needs behind their children's emotions and understand the importance of building emotional connections before attempting to correct behaviors or resolve conflicts.
+
+Through interactive exercises and shared experiences, parents develop practical skills in active listening, effective communication, and emotional de-escalation. These skills help reduce arguments and create opportunities for calmer, more respectful conversations with their children.
+
+Weekly group activities also equip parents with strategies to help their children manage anxiety, academic pressure, exam-related stress, and emotional challenges. Parents learn how to establish healthy boundaries, encourage responsibility and independence, and guide their children toward more balanced use of electronic devices, screen time, and social media.
+
+## Beyond Tutoring: Building Connections and Enriching Lives
+
+In addition to promoting family resilience and mental well-being, CAPSA organizes enjoyable recreational activities, such as gardening and crochet workshops.
+
+These activities offer parents—who often juggle demanding jobs, household responsibilities, and their children's education—a valuable opportunity to relax, connect with others, and temporarily step away from the pressures of everyday life.
+
+Whether nurturing a small plant or creating something beautiful through crochet, parents rediscover simple joys, reconnect with their curiosity and creativity, and find renewed energy and inspiration.
+
+These shared experiences strengthen friendships, foster emotional connections, and remind parents that caring for themselves is also an important part of caring for their families.
+
+## CAPSA: A Place for Students to Grow and Parents to Find Support
+
+**CAPSA is a stepping stone for students' growth and a welcoming haven for parents.**
+
+We believe that meaningful education goes far beyond helping children achieve better academic results. It is also about inspiring them to help others and become compassionate, responsible, and caring individuals.
+
+We also believe that a healthy, thriving family requires growth from both children and parents. It needs not only knowledge and education, but also emotional connection, mutual understanding, and continued support.
+
+For more than three decades, CAPSA has remained committed to a simple yet powerful mission: **to lead with compassion, connect through education, and empower through mutual support.**
+
+Through this commitment, students grow by serving others, parents find strength through shared experiences, and families build richer, healthier, and more fulfilling lives together.
+
+**At CAPSA, we don't just help students succeed academically. We nurture future leaders, strengthen families, and build a caring community where everyone has the opportunity to learn, grow, and thrive.**
+
+
+
 CAPSA 不仅仅是一个课外辅导机构，更是一个学生与家长共同成长、彼此成​就的温暖社区。\
 \
 成立于1988年的 CAPSA，是一个由家长志愿者共同创办和运营的非营利性教育互​助组织。一路走来，我们汇聚了十几位热心奉献的志愿者家长，每个​周六的上午，带领60多名来自初高中阶段的学生志愿者，为有学业​辅导需求的学生提供线上和线下课程支持。\
