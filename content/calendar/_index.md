@@ -16,11 +16,11 @@ layout: calendar
 | 10/31/26     | Regular Tutoring Session                  | H﻿alloween Costume Contest                                           |
 | 11/7/26      | Regular Tutoring Session                  |                                                                      |
 | 11/14/26     | Regular Tutoring Session                  |                                                                      |
-| 11/21/26     | Regular Tutoring Session                  |                                                                      |
+| 11/21/26     | Regular Tutoring Session                  | CAPSA November Birthday Bash                                         |
 | **11/28/26** | **No Class - Thanksgiving**               |                                                                      |
 | 12/05/26     | Regular Tutoring Session                  |                                                                      |
 | 12/12/26     | Regular Tutoring Session                  |                                                                      |
-| 12/19/26     | Regular Tutoring Session                  |                                                                      |
+| 12/19/26     | Regular Tutoring Session                  | C﻿APSA December Birthday Bash                                        |
 | **12/26/26** | **No Class - Christmas**                  |                                                                      |
 | **01/02/27** | **No Class - New Year**                   |                                                                      |
 | 01/09/27     | Regular Tutoring Session                  |                                                                      |
