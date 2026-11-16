@@ -11,7 +11,7 @@ tags:
 
 **CAPSA is more than just a tutoring organization. It is a warm, supportive community where students and parents grow together, empower one another, and help each other succeed.**
 
-Founded in 1989, CAPSA is a nonprofit educational support organization established and operated by dedicated parent volunteers. Over the years, CAPSA has brought together more than a dozen committed parent volunteers who, every Saturday morning, lead over 60 middle and high school student volunteers in providing both in-person and online academic tutoring to students in need8
+Founded in 1988, CAPSA is a nonprofit educational support organization established and operated by dedicated parent volunteers. Over the years, CAPSA has brought together more than a dozen committed parent volunteers who, every Saturday morning, lead over 60 middle and high school student volunteers in providing both in-person and online academic tutoring to students in need8
 
 At CAPSA, we have witnessed generations of students grow, develop, and transform. Many first come to CAPSA as students seeking academic support. After benefiting from the program, they choose to give back by becoming volunteer tutors themselves. As they gain experience, they gradually take on student leadership roles, assuming responsibilities in organization, coordination, and program management.
 
